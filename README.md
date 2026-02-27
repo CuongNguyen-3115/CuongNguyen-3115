@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Nguyễn Tiến Cường 👋 
 
-<!--
-**CuongNguyen-3115/CuongNguyen-3115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🏫 Student at **Hanoi University of Science and Technology (HUST)**
+- 📚 Major: **Mathematics and Informatics** (Class of 2026)
+- 🎯 Interest: **Artificial Intelligence, Robotics, and Web Development**
+- 🌱 I’m currently improving my skills in **Data Structures & Algorithms** and **Machine Learning**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python, C++, JavaScript, TypeScript.
+- **Tools & Frameworks:** Git, React, LaTeX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+- 🛡️ **Faceguard Deepfake Detector**: Researching AI security and deep learning.
+- 🏥 **HealthScanPro**: A healthcare application focusing on user experience.
+
+### 🤝 Community & Volunteering
+- **Technical Support** @ STEAMese Festival 2025 (STEAM for Vietnam).
+- **Active Member** @ VFAMI Volunteer Team - HUST.
+
+---
+📫 **How to reach me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cuong-nguyen-tien-profile)
