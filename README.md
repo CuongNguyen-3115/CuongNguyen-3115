@@ -17,6 +17,7 @@ I’m currently improving my skills in **Machine Learning** and **Deep Learning*
 <a href="https://github.com/CuongNguyen-3115/Product-Scan/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CuongNguyen-3115&repo=Product-Scan&theme=radical" />
 </a>    
+
 <a href="https://github.com/CuongNguyen-3115/Deepfake-Detector">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CuongNguyen-3115&repo=Deepfake-Detector&theme=merko" />
 </a>
@@ -25,6 +26,9 @@ I’m currently improving my skills in **Machine Learning** and **Deep Learning*
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CuongNguyen-3115&repo=Airline-Satisfaction&theme=gruvbox" />
 </a>    
 
+<a href="https://github.com/CuongNguyen-3115/Medical-GraphRAG">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CuongNguyen-3115&repo=Medical-GraphRAG&theme=cobalt" />
+</a>
 ---
 
 ### Github Stats
