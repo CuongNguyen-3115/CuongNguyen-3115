@@ -29,6 +29,10 @@ I’m currently improving my skills in **Machine Learning** and **Deep Learning*
 <a href="https://github.com/CuongNguyen-3115/Medical-GraphRAG">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CuongNguyen-3115&repo=Medical-GraphRAG&theme=cobalt" />
 </a>
+
+<a href="https://github.com/CuongNguyen-3115/AI_Financial">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CuongNguyen-3115&repo=AI_Financial&theme=dracula" />
+</a>
 ---
 
 ### Github Stats
