@@ -33,7 +33,7 @@ I’m currently improving my skills in **Machine Learning** and **Deep Learning*
 <a href="https://github.com/CuongNguyen-3115/AI_Financial">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CuongNguyen-3115&repo=AI_Financial&theme=dracula" />
 </a>
----
+
 
 ### Github Stats
 ![Cuong's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=CuongNguyen-3115&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
